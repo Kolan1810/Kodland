@@ -1,1 +1,1 @@
-# Kodlandprint("Hello world");
+print("Hello world");
